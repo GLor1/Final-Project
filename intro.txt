@@ -1,3 +1,5 @@
 Hello World, this is my first attempt in uploading an essay to gitHub.
 The purpose is to demonstrate how we can utilize github as a respository to safely store our work, minimize devices like usb, and external hard drives.
 
+My first push to the respository was a success.  I definitely learned alot.  The commit after this one will include pulling the file.
+
