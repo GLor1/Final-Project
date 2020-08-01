@@ -3,3 +3,6 @@ The purpose is to demonstrate how we can utilize github as a respository to safe
 
 My first push to the respository was a success.  I definitely learned alot.  The commit after this one will include pulling the file.
 
+This is the change before I pull it onto my local machine.
+
+Ger
