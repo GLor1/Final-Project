@@ -3,6 +3,19 @@ The purpose is to demonstrate how we can utilize github as a respository to safe
 
 My first push to the respository was a success.  I definitely learned alot.  The commit after this one will include pulling the file.
 
+<<<<<<< HEAD
 
 I wonder what happens when I edit the code in NANO?
+
+=======
+This is the change before I pull it onto my local machine.
+
+Ger
+>>>>>>> 89c49c41d1b6281540eac443dfca72172b39e860
+
+
+
+-This is a journal log for August 4, 2020. 
+There was an explosion in Beruit, Lebanon today. 
+Also there was person (appeared to be male) who jumped off a bridge today in Milwaukee. 
 
